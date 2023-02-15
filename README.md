@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LitleStuart
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning ReactJS and C++ a little
+- 🌱 I’m currently learning ReactJS and TypeScript
 - 💞️ I’m looking to collaborate on development of simple web-projects
 - 📫 How to reach me: vanyamukhori@gmail.com +79041699891
 
